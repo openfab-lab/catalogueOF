@@ -1,2 +1,2 @@
-# teamA-projects
-To collect and manage the team on open calls
+# Catalogue des produits et services 
+Proposé par les membres d'Openfab. 
